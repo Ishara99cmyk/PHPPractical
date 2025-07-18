@@ -8,7 +8,7 @@
 
     $host = getenv('DB_HOST');
     $apiKey = getenv('API_KEY');
-    $db = getenv('DB_NAME') ;
+    $db = getenv('DB_NAME');
     $user = getenv('DB_USER');
     $pass = getenv('DB_PASS');
 
